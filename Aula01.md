@@ -41,5 +41,16 @@ Empreendedorismo é a capacidade de identificar problemas e oportunidades, desen
   - Utilização criativa dos recursos disponíveis
   - Aceitação de riscos e probabilidades
 
+### Perfis:
+
+- Nato
+- Aprende o inesperado
+- Serial
+- Corporativo
+- Social
+- Necessidade
+- Herdeiro
+- Profissional
+
 ## Bibliografia
 - José Dornelas
