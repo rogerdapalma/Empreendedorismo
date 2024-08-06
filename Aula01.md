@@ -52,5 +52,10 @@ Empreendedorismo é a capacidade de identificar problemas e oportunidades, desen
 - Herdeiro
 - Profissional
 
+### Realidade 
+- Lidres
+- Proatividade
+- etc
+
 ## Bibliografia
 - José Dornelas
