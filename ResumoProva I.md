@@ -54,9 +54,6 @@
 - **Tipos de Empresa**: Compare as características e responsabilidades de cada tipo de empresa.
 - **Regime Tributário**: Analise qual regime é mais adequado para diferentes tipos de negócio.
 
-
-Aqui estão as perguntas da avaliação que você enviou e suas respectivas respostas corretas:
-
 1. **Qual é a principal característica do modelo econômico clássico?**
    - Resposta correta: **b) Livre mercado e autoajustamento**
 
