@@ -59,8 +59,4 @@ O modelo de precificação seria flexível, dependendo do porte do cliente e da 
 - **Consultoria personalizada** a partir de R$ 10.000
 - **Suporte e manutenção** com taxas adicionais
 
-Essa estratégia de precificação garante um fluxo de receita diversificado e escalável, ajustando-se às necessidades de cada cliente.
 
----
-
-Essa nova estrutura ajuda a segmentar as informações, facilitando a leitura e entendimento do projeto de automação agrícola, além de tornar as ideias mais claras e organizadas.
