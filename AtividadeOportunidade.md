@@ -95,5 +95,3 @@ O modelo de precificação poderia variar dependendo do tipo de cliente e da com
 - **Modelo de assinatura mensal:** Para clientes que preferem pagar uma taxa mensal por acesso à plataforma, com valores que podem variar entre R$ 100 e R$ 1.000 por mês, dependendo das funcionalidades contratadas.
 - **Consultoria e personalização:** Projetos maiores ou específicos poderiam incluir pacotes de consultoria, com valores a partir de R$ 10.000 para customizações e treinamentos dedicados.
 - **Manutenção e suporte:** Uma taxa adicional poderia ser cobrada por suporte técnico contínuo e atualizações regulares, garantindo que o sistema esteja sempre funcional e atualizado.
-
-Essa combinação de modelo de precificação garantiria um fluxo de receita diversificado e escalável, ajustando-se às necessidades e capacidades de cada cliente.
