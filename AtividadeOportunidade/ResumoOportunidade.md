@@ -20,11 +20,25 @@ Para implementar a oportunidade, será formada uma equipe multidisciplinar com d
 ### 6. Modelo de Precificação
 A precificação será flexível, com licenças anuais variando de R$ 500 a R$ 20.000, assinaturas mensais de R$ 100 a R$ 1.000, e consultorias a partir de R$ 10.000.
 
-### Matriz FOFA
+Matriz FOFA
+Forças:
 
-- **Forças:** Especialização, adaptação ao cliente, tecnologia eficaz, facilidade de uso.
-- **Fraquezas:** Infraestrutura, custo de entrada, necessidade de suporte contínuo.
-- **Oportunidades:** Digitalização do agronegócio, sustentabilidade, parcerias estratégicas.
-- **Ameaças:** Crescimento da concorrência, incertezas econômicas, limitações de conectividade.
+Software fácil de usar
+Personalização para cada fazenda
+Resultados rápidos e claros
+Fraquezas:
 
+Exige suporte contínuo
+Custo de implementação inicial pode ser alto
+Necessita de uma boa infraestrutura de internet
+Oportunidades:
+
+Mercado agrícola está cada vez mais tecnológico
+Incentivos governamentais para digitalização no campo
+Sustentabilidade e economia de recursos são tendências fortes
+Ameaças:
+
+Concorrência crescente de outras empresas de software
+Conectividade limitada em áreas rurais
+Mudanças nas leis e regulamentações podem impactar
 
