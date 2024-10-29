@@ -104,7 +104,7 @@ O modelo de precificação poderia variar dependendo do tipo de cliente e da com
 |-------------------------------------------|-------------------------------------------|
 | - Software fácil de usar                  | - Exige suporte contínuo                  |
 | - Personalização para cada fazenda        | - Custo de implementação inicial pode ser alto |
-| - Resultados rápidos e claros             | - Necessita de uma boa infraestrutura de internet |
+| - Monitoramento continuo                  | - Necessita de uma boa infraestrutura de internet |
 
 | **Oportunidades**                         | **Ameaças**                               |
 |-------------------------------------------|-------------------------------------------|
